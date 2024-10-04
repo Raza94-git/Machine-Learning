@@ -5,11 +5,11 @@ This project demonstrates the steps involved in building a Decision Tree model t
 
 1. Data Preparation and Exploratory Data Analysis (EDA)
 
-Imported essential libraries: numpy, pandas, matplotlib, and seaborn.
+  Imported essential libraries: numpy, pandas, matplotlib, and seaborn.
 
-Loaded the Dataset: The heart disease dataset was loaded and its attributes were understood.
+  Loaded the Dataset: The heart disease dataset was loaded and its attributes were understood.
 
-Data Cleaning: Checked for null and duplicate values.
+  Data Cleaning: Checked for null and duplicate values.
 
 **EDA:**
 
