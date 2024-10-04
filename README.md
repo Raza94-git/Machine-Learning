@@ -10,11 +10,17 @@ Linear Regression
 Logistic Regression
 
 Decision Tree
+
 Random Forest
+
 K-Means Clustering
+
 Principal Component Analysis (PCA)
+
 Linear Discriminant Analysis (LDA)
+
 Time Series Forecasting
+
 Singular Value Decomposition (SVD)
 
 # 🔍 Exploratory Data Analysis (EDA)
@@ -22,7 +28,9 @@ Singular Value Decomposition (SVD)
 For each project, we begin with a thorough Exploratory Data Analysis:
 
 Data Cleaning: Removing missing values, handling outliers, and transforming variables.
+
 Visualization: Using matplotlib and seaborn to plot graphs and uncover data patterns.
+
 Insights: Gaining a deeper understanding of the data to guide the modeling process.
 
 # 📈 Model Building and Evaluation
@@ -30,9 +38,13 @@ Insights: Gaining a deeper understanding of the data to guide the modeling proce
 Once the data is prepared, we employ various modules from Scikit-learn to:
 
 Build predictive models for both classification and regression tasks.
+
 Use dimensionality reduction techniques like PCA and LDA.
+
 Cluster data points using K-Means Clustering.
+
 Forecast future trends with Time Series Forecasting.
+
 Evaluate model performance using metrics such as accuracy, precision, recall, RMSE, and more.
 
 # 🌟 Contributions
