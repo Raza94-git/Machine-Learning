@@ -6,7 +6,9 @@ In this repository, you will find projects covering a wide range of machine lear
 
 # Key Algorithms Covered:
 Linear Regression
+
 Logistic Regression
+
 Decision Tree
 Random Forest
 K-Means Clustering
