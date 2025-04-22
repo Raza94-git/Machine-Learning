@@ -46,6 +46,3 @@ Cluster data points using K-Means Clustering.
 Forecast future trends with Time Series Forecasting.
 
 Evaluate model performance using metrics such as accuracy, precision, recall, RMSE, and more.
-
-# 🌟 Contributions
-Contributions are welcome! Feel free to submit pull requests if you want to add new projects, improve existing ones, or share your own insights.
